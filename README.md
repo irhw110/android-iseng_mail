@@ -1,2 +1,2 @@
 # android-iseng_mail
-Aplikasi android yang digunakan buat ngirim e-mail, pada kolom atas diisikan dengan tujuan e-mail, kemudian kolom kedua dimasukkan subjek dari e-mail dan kolom terakhir diisikan isi dari e-mail tersebut. Jika telah selesai tekan tombol yang tersedia untuk mengirim dan kemudian akan diarahkan ke gmail untuk mengirimnya.
+Aplikasi android yang digunakan buat mengirim e-mail, dalam aplikasi terdapat tiga kolom dimana yang paling atas diisikan tujuan e-mail, kolom kedua diisikan subjek e-mail, dan kolom terakhir berisi isi dari e-mail. Jika telah selesai tekan tombol yang tersedia untuk mengirim dan kemudian akan diarahkan ke gmail untuk mengirimnya.Dalam pembuatannya saya menggunakan aplikasi Android Studio dan belajar dari banyak referensi,.
